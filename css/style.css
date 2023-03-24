@@ -294,3 +294,177 @@ body {
     height: 52px !important;
     border: none !important;
 }
+
+.seemore {
+    width: 159px !important;
+    height: 52px !important;
+    background-color: transparent !important;
+    border: 1px solid #FFFFFF !important;
+    filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15)) !important;
+    color: #fff !important;
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 17px !important;
+}
+
+
+/* Partners Section */
+
+
+.h2-partners {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 52px !important;
+    color: #fff !important;
+    text-align: center !important;
+}
+
+.p7 {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 20px !important;
+    color: #fff !important;
+    margin: 0 !important;
+    text-align: center !important;
+    padding: 50px !important;
+    padding-top: 0 !important;
+}
+
+.partnersbutt {
+    width: 176px !important;
+    height: 52px !important;
+    background-color: transparent !important;
+    border: 1px solid #FFFFFF !important;
+    filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15)) !important;
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 17px !important;
+    color: #fff !important;
+}
+
+
+/* Testimonials Section */
+
+
+.h1-testi {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 52px !important;
+    color: #fff !important;
+    text-align: center !important;
+}
+
+.h6-claire {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+    letter-spacing: 1px !important;
+}
+
+.card1 {
+    background-color: transparent !important;
+    border: 1px solid #DEDEDE !important;
+    border-radius: 10px !important;
+    height: 328px !important;
+}
+
+.p8 {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 26px;
+    letter-spacing: 1px !important;
+    color: #fff !important;
+}
+
+.card2 {
+    background-color: transparent !important;
+    border: 1px solid #DEDEDE !important;
+    border-radius: 10px !important;
+    height: 304px !important;
+}
+
+.card3 {
+    background-color: transparent !important;
+    border: 1px solid #DEDEDE !important;
+    border-radius: 10px !important;
+}
+
+.box12 {
+    background-color: #343434 !important;
+    border: none !important;
+    border-radius: 33px !important;
+}
+
+.h1-opentype {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 52px !important;
+    color: #fff !important;
+}
+
+.trybutt {
+    width: 232px !important;
+    height: 52px !important;
+    border: none !important;
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 17px !important;
+    color: #fff !important;
+}
+
+.linechart {
+    border-bottom-right-radius: 33px !important;
+}
+
+
+
+/* Footer */
+
+
+.h6-finger {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    color: #fff !important;
+}
+
+.a-navig {
+    text-decoration: none !important;
+    color: #fff !important;
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+}
+
+.p-last1 {
+    font-family: 'Graphik' !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 16px !important;
+    color: #fff !important;
+}
+
+.continfo {
+    padding-right: 90px !important;
+}
+
+@media screen and (max-width: 768px) {
+    .continfo {
+        display: flex !important;
+        justify-content: start !important;
+        padding-left: 40px !important;
+    }
+}
